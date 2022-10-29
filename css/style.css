@@ -516,10 +516,11 @@ a:focus {
 }
 
 .social_container {
-  width: 90%;
-  margin: 0 auto;
-  border-top: 1px solid #898989;
-  padding: 25px 0;
+  display: none;
+  /*width: 90%;*/
+  /*margin: 0 auto;*/
+  /*border-top: 1px solid #898989;*/
+  /*padding: 25px 0;*/
 }
 
 .info_section .social-box {
